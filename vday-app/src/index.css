@@ -1,0 +1,94 @@
+.App {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffd0d0;
+  font-family: sans-serif;
+}
+
+.header1 {
+  text-align: center;
+  color:rgb(196, 0, 0);
+}
+
+.container {
+  background-color: #fff;
+  padding: 40px;
+  border: 5px solid #b60000; 
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  max-width: 500px;
+  width: 90%;
+  position: relative;
+}
+
+.button-container {
+  display: flex;             
+  justify-content: center;    
+  align-items: center;        
+  gap: 20px;                 
+  position: relative;     
+  margin-top: 20px;
+}
+
+.button-container button {
+   margin: 0;                 
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  background-color: #d40101;  
+  color: white;
+  transition: all 0.2s ease;
+  padding: 10px 20px;
+ 
+}
+
+.button-container button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.yesBttn {
+  background-color: #d40101;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.2s ease;
+}
+
+.yesBttn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.no-button {
+  background-color: white;
+  color: #d40101; 
+  border: 2px solid #d40101;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.2s ease;
+  position: relative; 
+  display: flex;              
+  justify-content: center;   
+  align-items: center; 
+}
+
+.no-button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.celebrate img {
+  margin-top: 20px;
+  max-width: 100%;
+  border-radius: 10px;
+}
