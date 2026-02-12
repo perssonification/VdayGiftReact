@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VdayGiftReact/static/css/main.ef39f2c9.css",
-    "main.js": "/VdayGiftReact/static/js/main.2d69c288.js",
+    "main.js": "/VdayGiftReact/static/js/main.16a6cd12.js",
     "static/js/453.77516647.chunk.js": "/VdayGiftReact/static/js/453.77516647.chunk.js",
     "index.html": "/VdayGiftReact/index.html",
     "main.ef39f2c9.css.map": "/VdayGiftReact/static/css/main.ef39f2c9.css.map",
-    "main.2d69c288.js.map": "/VdayGiftReact/static/js/main.2d69c288.js.map",
+    "main.16a6cd12.js.map": "/VdayGiftReact/static/js/main.16a6cd12.js.map",
     "453.77516647.chunk.js.map": "/VdayGiftReact/static/js/453.77516647.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef39f2c9.css",
-    "static/js/main.2d69c288.js"
+    "static/js/main.16a6cd12.js"
   ]
 }
