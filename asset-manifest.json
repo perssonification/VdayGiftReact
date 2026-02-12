@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VdayGiftReact/vday-app/static/css/main.ef39f2c9.css",
+    "main.js": "/VdayGiftReact/vday-app/static/js/main.2b1b4ea1.js",
+    "static/js/453.77516647.chunk.js": "/VdayGiftReact/vday-app/static/js/453.77516647.chunk.js",
+    "index.html": "/VdayGiftReact/vday-app/index.html",
+    "main.ef39f2c9.css.map": "/VdayGiftReact/vday-app/static/css/main.ef39f2c9.css.map",
+    "main.2b1b4ea1.js.map": "/VdayGiftReact/vday-app/static/js/main.2b1b4ea1.js.map",
+    "453.77516647.chunk.js.map": "/VdayGiftReact/vday-app/static/js/453.77516647.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef39f2c9.css",
+    "static/js/main.2b1b4ea1.js"
+  ]
+}
